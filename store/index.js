@@ -82,6 +82,7 @@ const createStore = () => {
         }
       },
       fetch_search({ commit }, key) {
+        key == undefined ? (key = "") : key
         try {
           return new Promise((resolve, reject) => {
             axios
