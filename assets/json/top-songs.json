@@ -17,7 +17,7 @@
     "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
     "country": "th",
     "icon": "http://itunes.apple.com/favicon.ico",
-    "updated": "2018-11-09T03:47:21.000-08:00",
+    "updated": "2018-11-10T03:05:34.000-08:00",
     "results": [
       {
         "artistName": "Palmy",
@@ -125,36 +125,6 @@
         "url": "https://itunes.apple.com/th/album/la-vie-en-rose/1440449615?i=1440449620&app=music"
       },
       {
-        "artistName": "EXO",
-        "id": "1440782230",
-        "releaseDate": "2018-11-02",
-        "name": "Tempo",
-        "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
-        "kind": "song",
-        "copyright": "℗ 2018 SM Entertainment",
-        "artistId": "657630070",
-        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/43/e7/ae/43e7aee9-ef63-eb49-6541-02c62ce3cad6/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/th/genre/id51"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/tempo/1440782229?i=1440782230&app=music"
-      },
-      {
         "artistName": "Polycat",
         "id": "1420469008",
         "releaseDate": "2018-08-07",
@@ -183,6 +153,36 @@
           }
         ],
         "url": "https://itunes.apple.com/th/album/%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%93/1420469005?i=1420469008&app=music"
+      },
+      {
+        "artistName": "EXO",
+        "id": "1440782230",
+        "releaseDate": "2018-11-02",
+        "name": "Tempo",
+        "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
+        "kind": "song",
+        "copyright": "℗ 2018 SM Entertainment",
+        "artistId": "657630070",
+        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/43/e7/ae/43e7aee9-ef63-eb49-6541-02c62ce3cad6/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/tempo/1440782229?i=1440782230&app=music"
       },
       {
         "artistName": "Ariana Grande",
@@ -267,31 +267,6 @@
         "url": "https://itunes.apple.com/th/album/%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8A-%E0%B8%AD%E0%B8%89-%E0%B8%99/1407440301?i=1407440561&app=music"
       },
       {
-        "artistName": "Dua Lipa & BLACKPINK",
-        "id": "1434849693",
-        "releaseDate": "2017-06-02",
-        "name": "Kiss and Make Up",
-        "collectionName": "Dua Lipa (Complete Edition)",
-        "kind": "song",
-        "copyright": "℗ 2018 Dua Lipa Limited under exclusive license to Warner Music UK Limited with the exception of tracks 1, 2, 5, 10, 11, 12, 16  (P)2017, tracks 3, 6, 7, 8, 9, 13, 14 (P)2016, tracks 4, 15, 17  (P)2015, track 21  (P) 2018 Sony Music Entertainment UK Limited, track 22 (P)2018 SILK CITY IP, LLC. Under exclusive license to Columbia Records and Sony Music Entertainment UK Limited, track 23 (P)2016 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V., track 24  (P) 2016 SPJ Productions Ltd, under exclusive licence to Island Records, a division of Universal Music Operations Limited.",
-        "artistId": "1031397873",
-        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=1031397873-1141774019&app=music",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/16/4f/44/164f448d-bbf0-939e-f209-047651c8629c/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/kiss-and-make-up/1434849473?i=1434849693&app=music"
-      },
-      {
         "artistName": "BLACKPINK",
         "id": "1398185834",
         "releaseDate": "2018-06-15",
@@ -327,6 +302,56 @@
         "url": "https://itunes.apple.com/th/album/ddu-du-ddu-du/1398185606?i=1398185834&app=music"
       },
       {
+        "artistName": "Dua Lipa & BLACKPINK",
+        "id": "1434849693",
+        "releaseDate": "2017-06-02",
+        "name": "Kiss and Make Up",
+        "collectionName": "Dua Lipa (Complete Edition)",
+        "kind": "song",
+        "copyright": "℗ 2018 Dua Lipa Limited under exclusive license to Warner Music UK Limited with the exception of tracks 1, 2, 5, 10, 11, 12, 16  (P)2017, tracks 3, 6, 7, 8, 9, 13, 14 (P)2016, tracks 4, 15, 17  (P)2015, track 21  (P) 2018 Sony Music Entertainment UK Limited, track 22 (P)2018 SILK CITY IP, LLC. Under exclusive license to Columbia Records and Sony Music Entertainment UK Limited, track 23 (P)2016 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V., track 24  (P) 2016 SPJ Productions Ltd, under exclusive licence to Island Records, a division of Universal Music Operations Limited.",
+        "artistId": "1031397873",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=1031397873-1141774019&app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/16/4f/44/164f448d-bbf0-939e-f209-047651c8629c/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/kiss-and-make-up/1434849473?i=1434849693&app=music"
+      },
+      {
+        "artistName": "F.HERO",
+        "id": "1438129585",
+        "releaseDate": "2018-10-11",
+        "name": "เสือสิ้นลาย (feat. Youngohm, P-Hot & Fymme)",
+        "collectionName": "เสือสิ้นลาย (feat. Youngohm, P-Hot & Fymme) - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 What The Duck",
+        "artistId": "1408535810",
+        "artistUrl": "https://itunes.apple.com/th/artist/f-hero/1408535810?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/bc/f6/0c/bcf60c2c-6be5-48b9-360b-eae9567cc540/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/th/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B9%80%E0%B8%AA-%E0%B8%AD%E0%B8%AA-%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%A2-feat-youngohm-p-hot-fymme/1438129582?i=1438129585&app=music"
+      },
+      {
         "artistName": "TWICE",
         "id": "1440972732",
         "releaseDate": "2018-11-05",
@@ -360,31 +385,6 @@
           }
         ],
         "url": "https://itunes.apple.com/th/album/yes-or-yes/1440972731?i=1440972732&app=music"
-      },
-      {
-        "artistName": "F.HERO",
-        "id": "1438129585",
-        "releaseDate": "2018-10-11",
-        "name": "เสือสิ้นลาย (feat. Youngohm, P-Hot & Fymme)",
-        "collectionName": "เสือสิ้นลาย (feat. Youngohm, P-Hot & Fymme) - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 What The Duck",
-        "artistId": "1408535810",
-        "artistUrl": "https://itunes.apple.com/th/artist/f-hero/1408535810?app=music",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/bc/f6/0c/bcf60c2c-6be5-48b9-360b-eae9567cc540/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-Hop/Rap",
-            "url": "https://itunes.apple.com/th/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B9%80%E0%B8%AA-%E0%B8%AD%E0%B8%AA-%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%A2-feat-youngohm-p-hot-fymme/1438129582?i=1438129585&app=music"
       },
       {
         "artistName": "HONNE",
@@ -437,21 +437,21 @@
         "url": "https://itunes.apple.com/th/album/smoke/1439429636?i=1439429640&app=music"
       },
       {
-        "artistName": "Atom Chanakan",
-        "id": "1437782568",
-        "releaseDate": "2018-11-01",
-        "name": "หนึ่งคืน",
-        "collectionName": "หนึ่งคืน - Single",
+        "artistName": "Marshmello & Bastille",
+        "id": "1424704480",
+        "releaseDate": "2018-08-17",
+        "name": "Happier",
+        "collectionName": "Happier - Single",
         "kind": "song",
-        "copyright": "℗ 2018 GMM Grammy PCL.",
-        "artistId": "958056826",
-        "artistUrl": "https://itunes.apple.com/th/artist/atom-chanakan/958056826?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/23/29/50/232950ad-730a-31ae-7de3-30d7ee163c6d/source/200x200bb.png",
+        "copyright": "Astralwerks; ℗ 2018 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+        "artistId": "980795202",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=980795202-420203509&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/8b/39/c4/8b39c4c8-f28d-2951-b787-e4db2f7b97b4/source/200x200bb.png",
         "genres": [
           {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/th/genre/id17"
           },
           {
             "genreId": "34",
@@ -459,7 +459,7 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%99-%E0%B8%87%E0%B8%84-%E0%B8%99/1437782260?i=1437782568&app=music"
+        "url": "https://itunes.apple.com/th/album/happier/1424703172?i=1424704480&app=music"
       },
       {
         "artistName": "Ink Waruntorn",
@@ -487,21 +487,21 @@
         "url": "https://itunes.apple.com/th/album/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5-%E0%B8%9A%E0%B8%A1-%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81/1439424599?i=1439424602&app=music"
       },
       {
-        "artistName": "Marshmello & Bastille",
-        "id": "1424704480",
-        "releaseDate": "2018-08-17",
-        "name": "Happier",
-        "collectionName": "Happier - Single",
+        "artistName": "Atom Chanakan",
+        "id": "1437782568",
+        "releaseDate": "2018-11-01",
+        "name": "หนึ่งคืน",
+        "collectionName": "หนึ่งคืน - Single",
         "kind": "song",
-        "copyright": "Astralwerks; ℗ 2018 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
-        "artistId": "980795202",
-        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=980795202-420203509&app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/8b/39/c4/8b39c4c8-f28d-2951-b787-e4db2f7b97b4/source/200x200bb.png",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "958056826",
+        "artistUrl": "https://itunes.apple.com/th/artist/atom-chanakan/958056826?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/23/29/50/232950ad-730a-31ae-7de3-30d7ee163c6d/source/200x200bb.png",
         "genres": [
           {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/th/genre/id17"
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
           },
           {
             "genreId": "34",
@@ -509,7 +509,7 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/happier/1424703172?i=1424704480&app=music"
+        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%99-%E0%B8%87%E0%B8%84-%E0%B8%99/1437782260?i=1437782568&app=music"
       },
       {
         "artistName": "BLACKPINK",
@@ -597,34 +597,30 @@
         "url": "https://itunes.apple.com/th/album/sunflower-spider-man-into-the-spider-verse/1439090291?i=1439090295&app=music"
       },
       {
-        "artistName": "EXO",
-        "id": "1440782413",
-        "releaseDate": "2018-11-02",
-        "name": "Ooh La La La",
-        "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
+        "artistName": "Maroon 5",
+        "id": "1381589780",
+        "releaseDate": "2018-05-30",
+        "name": "Girls Like You (feat. Cardi B)",
+        "collectionName": "Girls Like You (feat. Cardi B) - Single",
         "kind": "song",
-        "copyright": "℗ 2018 SM Entertainment",
-        "artistId": "657630070",
-        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/43/e7/ae/43e7aee9-ef63-eb49-6541-02c62ce3cad6/source/200x200bb.png",
+        "copyright": "℗ 2018 Interscope Records (222 Records)",
+        "artistId": "1798556",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/maroon-5/1798556?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a4/79/e7/a479e75e-42a2-45f5-2d88-c743c9f4535c/source/200x200bb.png",
         "genres": [
           {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/th/genre/id51"
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
           },
           {
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/ooh-la-la-la/1440782229?i=1440782413&app=music"
+        "url": "https://itunes.apple.com/th/album/girls-like-you-feat-cardi-b/1381588297?i=1381589780&app=music"
       },
       {
         "artistName": "Getsunova",
@@ -652,130 +648,34 @@
         "url": "https://itunes.apple.com/th/album/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87-%E0%B8%A2%E0%B8%9A%E0%B8%94-%E0%B8%87%E0%B8%97-%E0%B8%AA-%E0%B8%94/1417847536?i=1417847538&app=music"
       },
       {
-        "artistName": "Maroon 5",
-        "id": "1381589780",
-        "releaseDate": "2018-05-30",
-        "name": "Girls Like You (feat. Cardi B)",
-        "collectionName": "Girls Like You (feat. Cardi B) - Single",
+        "artistName": "IU",
+        "id": "1440552735",
+        "releaseDate": "2018-10-30",
+        "name": "Bbibbi",
+        "collectionName": "Bbibbi - Single",
         "kind": "song",
-        "copyright": "℗ 2018 Interscope Records (222 Records)",
-        "artistId": "1798556",
-        "contentAdvisoryRating": "Explicit",
-        "artistUrl": "https://itunes.apple.com/th/artist/maroon-5/1798556?app=music",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a4/79/e7/a479e75e-42a2-45f5-2d88-c743c9f4535c/source/200x200bb.png",
+        "copyright": "℗ 2018 KakaoM",
+        "artistId": "409076743",
+        "artistUrl": "https://itunes.apple.com/th/artist/iu/409076743?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/6a/27/18/6a27184b-f6b8-a3d8-0cf2-cfa48b14968a/source/200x200bb.png",
         "genres": [
           {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
           },
           {
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/girls-like-you-feat-cardi-b/1381588297?i=1381589780&app=music"
-      },
-      {
-        "artistName": "Season Five",
-        "id": "1434008792",
-        "releaseDate": "2018-09-07",
-        "name": "ต่อให้",
-        "collectionName": "ต่อให้ - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 Me Records",
-        "artistId": "505368594",
-        "artistUrl": "https://itunes.apple.com/th/artist/season-five/505368594?app=music",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a0/dc/1c/a0dc1c02-1e7d-95e2-7e58-c3d22af219de/source/200x200bb.png",
-        "genres": [
+          },
           {
             "genreId": "14",
             "name": "Pop",
             "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%95-%E0%B8%AD%E0%B9%83%E0%B8%AB/1434008783?i=1434008792&app=music"
-      },
-      {
-        "artistName": "The TOYS",
-        "id": "1439087880",
-        "releaseDate": "2018-10-25",
-        "name": "พูดไม่ออก",
-        "collectionName": "SUN",
-        "kind": "song",
-        "copyright": "℗ 2018 What The Duck",
-        "artistId": "1191438753",
-        "artistUrl": "https://itunes.apple.com/th/artist/the-toys/1191438753?app=music",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ef/66/ff/ef66ff38-eadd-dae8-efec-7a0b1c98c85f/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%9E-%E0%B8%94%E0%B9%84%E0%B8%A1-%E0%B8%AD%E0%B8%AD%E0%B8%81/1439087464?i=1439087880&app=music"
-      },
-      {
-        "artistName": "Pop Pongkool",
-        "id": "1350344240",
-        "releaseDate": "2018-03-09",
-        "name": "ภาพจำ",
-        "collectionName": "ภาพจำ - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 GMM Grammy PCL.",
-        "artistId": "592702233",
-        "artistUrl": "https://itunes.apple.com/th/artist/pop-pongkool/592702233?app=music",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/62/7c/27/627c27d5-7844-c35c-4c1a-d5de74151e1c/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B3/1350344235?i=1350344240&app=music"
-      },
-      {
-        "artistName": "โอ๊ต ปราโมทย์",
-        "id": "1432523590",
-        "releaseDate": "2018-08-29",
-        "name": "ติดตลก",
-        "collectionName": "ติดตลก - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 GMM Grammy PCL.",
-        "artistId": "912307932",
-        "artistUrl": "https://itunes.apple.com/th/artist/%E0%B9%82%E0%B8%AD-%E0%B8%95-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%A2/912307932?app=music",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/71/52/17/7152175a-796a-e687-4fb4-1da9f4e12fc0/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%95-%E0%B8%94%E0%B8%95%E0%B8%A5%E0%B8%81/1432523313?i=1432523590&app=music"
+        "url": "https://itunes.apple.com/th/album/bbibbi/1440552733?i=1440552735&app=music"
       },
       {
         "artistName": "iKON",
@@ -813,6 +713,81 @@
         "url": "https://itunes.apple.com/th/album/love-scenario/1339623377?i=1339623399&app=music"
       },
       {
+        "artistName": "Pop Pongkool",
+        "id": "1350344240",
+        "releaseDate": "2018-03-09",
+        "name": "ภาพจำ",
+        "collectionName": "ภาพจำ - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "592702233",
+        "artistUrl": "https://itunes.apple.com/th/artist/pop-pongkool/592702233?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/62/7c/27/627c27d5-7844-c35c-4c1a-d5de74151e1c/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B3/1350344235?i=1350344240&app=music"
+      },
+      {
+        "artistName": "Season Five",
+        "id": "1434008792",
+        "releaseDate": "2018-09-07",
+        "name": "ต่อให้",
+        "collectionName": "ต่อให้ - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Me Records",
+        "artistId": "505368594",
+        "artistUrl": "https://itunes.apple.com/th/artist/season-five/505368594?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a0/dc/1c/a0dc1c02-1e7d-95e2-7e58-c3d22af219de/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%95-%E0%B8%AD%E0%B9%83%E0%B8%AB/1434008783?i=1434008792&app=music"
+      },
+      {
+        "artistName": "โอ๊ต ปราโมทย์",
+        "id": "1432523590",
+        "releaseDate": "2018-08-29",
+        "name": "ติดตลก",
+        "collectionName": "ติดตลก - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "912307932",
+        "artistUrl": "https://itunes.apple.com/th/artist/%E0%B9%82%E0%B8%AD-%E0%B8%95-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%A2/912307932?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/71/52/17/7152175a-796a-e687-4fb4-1da9f4e12fc0/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%95-%E0%B8%94%E0%B8%95%E0%B8%A5%E0%B8%81/1432523313?i=1432523590&app=music"
+      },
+      {
         "artistName": "Anne-Marie",
         "id": "1418704730",
         "releaseDate": "2018-04-20",
@@ -838,16 +813,41 @@
         "url": "https://itunes.apple.com/th/album/2002/1418704441?i=1418704730&app=music"
       },
       {
-        "artistName": "IU",
-        "id": "1440552735",
-        "releaseDate": "2018-10-30",
-        "name": "Bbibbi",
-        "collectionName": "Bbibbi - Single",
+        "artistName": "Cyanide",
+        "id": "1436868629",
+        "releaseDate": "2018-09-19",
+        "name": "Let You Go (feat. Lazyloxy)",
+        "collectionName": "Let You Go (feat. Lazyloxy) - Single",
         "kind": "song",
-        "copyright": "℗ 2018 KakaoM",
-        "artistId": "409076743",
-        "artistUrl": "https://itunes.apple.com/th/artist/iu/409076743?app=music",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/6a/27/18/6a27184b-f6b8-a3d8-0cf2-cfa48b14968a/source/200x200bb.png",
+        "copyright": "℗ 2018 Cyanide",
+        "artistId": "151473205",
+        "artistUrl": "https://itunes.apple.com/th/artist/cyanide/151473205?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/68/21/f2/6821f2b4-bc86-41b8-3833-4da3582acd8b/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/th/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/let-you-go-feat-lazyloxy/1436867799?i=1436868629&app=music"
+      },
+      {
+        "artistName": "EXO",
+        "id": "1440782413",
+        "releaseDate": "2018-11-02",
+        "name": "Ooh La La La",
+        "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
+        "kind": "song",
+        "copyright": "℗ 2018 SM Entertainment",
+        "artistId": "657630070",
+        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/43/e7/ae/43e7aee9-ef63-eb49-6541-02c62ce3cad6/source/200x200bb.png",
         "genres": [
           {
             "genreId": "51",
@@ -865,7 +865,32 @@
             "url": "https://itunes.apple.com/th/genre/id14"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/bbibbi/1440552733?i=1440552735&app=music"
+        "url": "https://itunes.apple.com/th/album/ooh-la-la-la/1440782229?i=1440782413&app=music"
+      },
+      {
+        "artistName": "The TOYS",
+        "id": "1439087880",
+        "releaseDate": "2018-10-25",
+        "name": "พูดไม่ออก",
+        "collectionName": "SUN",
+        "kind": "song",
+        "copyright": "℗ 2018 What The Duck",
+        "artistId": "1191438753",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-toys/1191438753?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ef/66/ff/ef66ff38-eadd-dae8-efec-7a0b1c98c85f/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%9E-%E0%B8%94%E0%B9%84%E0%B8%A1-%E0%B8%AD%E0%B8%AD%E0%B8%81/1439087464?i=1439087880&app=music"
       },
       {
         "artistName": "Troye Sivan",
@@ -893,51 +918,21 @@
         "url": "https://itunes.apple.com/th/album/strawberries-cigarettes/1334779517?i=1334779522&app=music"
       },
       {
-        "artistName": "Lipta",
-        "id": "1366187455",
-        "releaseDate": "2018-04-03",
-        "name": "หมอกร้าย (feat. Fongbeer & Kob the X factor)",
-        "collectionName": "หมอกร้าย & คิดถึงเสมอ - Single",
+        "artistName": "Bodyslam",
+        "id": "1439419670",
+        "releaseDate": "2018-10-30",
+        "name": "ครึ่งๆ กลางๆ",
+        "collectionName": "ครึ่งๆ กลางๆ - Single",
         "kind": "song",
-        "copyright": "℗ 2018 Lipta",
-        "artistId": "307680660",
-        "artistUrl": "https://itunes.apple.com/th/artist/lipta/307680660?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/f3/5a/a2/f35aa2ef-bed4-a19f-430b-a64f3be4dc72/source/200x200bb.png",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "301727614",
+        "artistUrl": "https://itunes.apple.com/th/artist/bodyslam/301727614?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/c3/e8/c4/c3e8c463-17f0-b196-7cc3-3813046419f0/source/200x200bb.png",
         "genres": [
           {
-            "genreId": "1260",
-            "name": "Thai Pop",
-            "url": "https://itunes.apple.com/th/genre/id1260"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%A3-%E0%B8%B2%E0%B8%A2-feat-fongbeer-kob-the-x-factor/1366187224?i=1366187455&app=music"
-      },
-      {
-        "artistName": "Room39",
-        "id": "1384948447",
-        "releaseDate": "2018-05-21",
-        "name": "บอกตัวเอง (feat. โป่ง หินเหล็กไฟ)",
-        "collectionName": "บอกตัวเอง (feat. โป่ง หินเหล็กไฟ) - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 LOVEiS Co.,Ltd.",
-        "artistId": "285747369",
-        "artistUrl": "https://itunes.apple.com/th/artist/room39/285747369?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/3e/b8/dd/3eb8dd7b-bcd2-5eb9-afdd-6c5864bdab84/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
           },
           {
             "genreId": "34",
@@ -945,7 +940,7 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B8%95-%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-feat-%E0%B9%82%E0%B8%9B-%E0%B8%87-%E0%B8%AB-%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5-%E0%B8%81%E0%B9%84%E0%B8%9F/1384948442?i=1384948447&app=music"
+        "url": "https://itunes.apple.com/th/album/%E0%B8%84%E0%B8%A3-%E0%B8%87%E0%B9%86-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%86/1439419669?i=1439419670&app=music"
       },
       {
         "artistName": "Ed Sheeran",
@@ -978,16 +973,16 @@
         "url": "https://itunes.apple.com/th/album/perfect/1193701079?i=1193701400&app=music"
       },
       {
-        "artistName": "benny blanco, Halsey & Khalid",
-        "id": "1405952327",
-        "releaseDate": "2018-07-13",
-        "name": "Eastside",
-        "collectionName": "Eastside - Single",
+        "artistName": "Room39",
+        "id": "1384948447",
+        "releaseDate": "2018-05-21",
+        "name": "บอกตัวเอง (feat. โป่ง หินเหล็กไฟ)",
+        "collectionName": "บอกตัวเอง (feat. โป่ง หินเหล็กไฟ) - Single",
         "kind": "song",
-        "copyright": "℗ 2018 Friends Keep Secrets/Interscope Records",
-        "artistId": "1410841257",
-        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=1410841257-324916925-82842423&app=music",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/16/63/75/1663755a-545d-5ca2-6862-c8a8459f0701/source/200x200bb.png",
+        "copyright": "℗ 2018 LOVEiS Co.,Ltd.",
+        "artistId": "285747369",
+        "artistUrl": "https://itunes.apple.com/th/artist/room39/285747369?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/3e/b8/dd/3eb8dd7b-bcd2-5eb9-afdd-6c5864bdab84/source/200x200bb.png",
         "genres": [
           {
             "genreId": "14",
@@ -1000,7 +995,37 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/eastside/1405952326?i=1405952327&app=music"
+        "url": "https://itunes.apple.com/th/album/%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B8%95-%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-feat-%E0%B9%82%E0%B8%9B-%E0%B8%87-%E0%B8%AB-%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5-%E0%B8%81%E0%B9%84%E0%B8%9F/1384948442?i=1384948447&app=music"
+      },
+      {
+        "artistName": "Lipta",
+        "id": "1366187455",
+        "releaseDate": "2018-04-03",
+        "name": "หมอกร้าย (feat. Fongbeer & Kob the X factor)",
+        "collectionName": "หมอกร้าย & คิดถึงเสมอ - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Lipta",
+        "artistId": "307680660",
+        "artistUrl": "https://itunes.apple.com/th/artist/lipta/307680660?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/f3/5a/a2/f35aa2ef-bed4-a19f-430b-a64f3be4dc72/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1260",
+            "name": "Thai Pop",
+            "url": "https://itunes.apple.com/th/genre/id1260"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%A3-%E0%B8%B2%E0%B8%A2-feat-fongbeer-kob-the-x-factor/1366187224?i=1366187455&app=music"
       },
       {
         "artistName": "Khalid",
@@ -1026,6 +1051,166 @@
           }
         ],
         "url": "https://itunes.apple.com/th/album/young-dumb-broke/1200868601?i=1200868874&app=music"
+      },
+      {
+        "artistName": "benny blanco, Halsey & Khalid",
+        "id": "1405952327",
+        "releaseDate": "2018-07-13",
+        "name": "Eastside",
+        "collectionName": "Eastside - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Friends Keep Secrets/Interscope Records",
+        "artistId": "1410841257",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=1410841257-324916925-82842423&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/16/63/75/1663755a-545d-5ca2-6862-c8a8459f0701/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/eastside/1405952326?i=1405952327&app=music"
+      },
+      {
+        "artistName": "Ed Sheeran",
+        "id": "1193701392",
+        "releaseDate": "2017-01-06",
+        "name": "Shape of You",
+        "collectionName": "÷ (Deluxe)",
+        "kind": "song",
+        "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+        "artistId": "183313439",
+        "artistUrl": "https://itunes.apple.com/th/artist/ed-sheeran/183313439?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/ef/ca/a4/efcaa44a-517a-98e3-2353-5bff15471ed5/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/th/genre/id10"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/shape-of-you/1193701079?i=1193701392&app=music"
+      },
+      {
+        "artistName": "The TOYS",
+        "id": "1436280967",
+        "releaseDate": "2018-06-01",
+        "name": "Stars",
+        "collectionName": "Stars - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 What The Duck",
+        "artistId": "1191438753",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-toys/1191438753?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/5c/33/e8/5c33e8dc-e1f5-e836-aeae-bd464f680b69/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/stars/1436280964?i=1436280967&app=music"
+      },
+      {
+        "artistName": "Lipta",
+        "id": "1403893899",
+        "releaseDate": "2018-07-06",
+        "name": "Good Luck (feat. Maiyarap)",
+        "collectionName": "Good Luck (feat. Maiyarap) - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Lipta",
+        "artistId": "307680660",
+        "artistUrl": "https://itunes.apple.com/th/artist/lipta/307680660?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/04/49/97/044997eb-48d0-b1c8-a3dd-a6cf84689186/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1260",
+            "name": "Thai Pop",
+            "url": "https://itunes.apple.com/th/genre/id1260"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/good-luck-feat-maiyarap/1403893875?i=1403893899&app=music"
+      },
+      {
+        "artistName": "Atom Chanakan",
+        "id": "1318647464",
+        "releaseDate": "2017-12-07",
+        "name": "Good Morning Teacher",
+        "collectionName": "Cyantist",
+        "kind": "song",
+        "copyright": "℗ 2017 GMM Grammy PCL.",
+        "artistId": "958056826",
+        "artistUrl": "https://itunes.apple.com/th/artist/atom-chanakan/958056826?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b1/05/c3/b105c374-aef4-92e8-f5e2-99e4832cfbf7/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/good-morning-teacher/1318647271?i=1318647464&app=music"
+      },
+      {
+        "artistName": "The Parkinson",
+        "id": "1419990865",
+        "releaseDate": "2018-08-08",
+        "name": "คนชั่ว 2018",
+        "collectionName": "คนชั่ว 2018 - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Spicy Disc Co.,Ltd. Manufactured and Distributed by Spicy Disc. All right reserved.",
+        "artistId": "931570340",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-parkinson/931570340?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/13/64/5e/13645eeb-2de1-3411-ac5e-b0f51259950b/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%84%E0%B8%99%E0%B8%8A-%E0%B8%A7-2018/1419990413?i=1419990865&app=music"
       },
       {
         "artistName": "Steve Aoki",
@@ -1058,16 +1243,16 @@
         "url": "https://itunes.apple.com/th/album/waste-it-on-me-feat-bts/1439862278?i=1439862582&app=music"
       },
       {
-        "artistName": "The TOYS",
-        "id": "1436280967",
-        "releaseDate": "2018-06-01",
-        "name": "Stars",
-        "collectionName": "Stars - Single",
+        "artistName": "MEAN",
+        "id": "1248396242",
+        "releaseDate": "2017-06-23",
+        "name": "หมายความว่าอะไร",
+        "collectionName": "หมายความว่าอะไร - Single",
         "kind": "song",
-        "copyright": "℗ 2018 What The Duck",
-        "artistId": "1191438753",
-        "artistUrl": "https://itunes.apple.com/th/artist/the-toys/1191438753?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/5c/33/e8/5c33e8dc-e1f5-e836-aeae-bd464f680b69/source/200x200bb.png",
+        "copyright": "℗ 2017 LOVEiS Co.,Ltd.",
+        "artistId": "1226563279",
+        "artistUrl": "https://itunes.apple.com/th/artist/mean/1226563279?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music117/v4/2c/05/fe/2c05fe69-397b-8a72-36e5-9bd4cc673ed4/source/200x200bb.png",
         "genres": [
           {
             "genreId": "14",
@@ -1080,67 +1265,7 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/stars/1436280964?i=1436280967&app=music"
-      },
-      {
-        "artistName": "EXO",
-        "id": "1440782423",
-        "releaseDate": "2018-11-02",
-        "name": "24/7",
-        "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
-        "kind": "song",
-        "copyright": "℗ 2018 SM Entertainment",
-        "artistId": "657630070",
-        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/43/e7/ae/43e7aee9-ef63-eb49-6541-02c62ce3cad6/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/th/genre/id51"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/24-7/1440782229?i=1440782423&app=music"
-      },
-      {
-        "artistName": "Ed Sheeran",
-        "id": "1193701392",
-        "releaseDate": "2017-01-06",
-        "name": "Shape of You",
-        "collectionName": "÷ (Deluxe)",
-        "kind": "song",
-        "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
-        "artistId": "183313439",
-        "artistUrl": "https://itunes.apple.com/th/artist/ed-sheeran/183313439?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/ef/ca/a4/efcaa44a-517a-98e3-2353-5bff15471ed5/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "10",
-            "name": "Singer/Songwriter",
-            "url": "https://itunes.apple.com/th/genre/id10"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/shape-of-you/1193701079?i=1193701392&app=music"
+        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7-%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/1248396240?i=1248396242&app=music"
       },
       {
         "artistName": "BLACKPINK",
@@ -1178,10 +1303,35 @@
         "url": "https://itunes.apple.com/th/album/as-if-its-your-last/1251249729?i=1251249891&app=music"
       },
       {
+        "artistName": "Burin Boonvisut",
+        "id": "1387453582",
+        "releaseDate": "2018-05-25",
+        "name": "ขอโทษ",
+        "collectionName": "ขอโทษ - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 Muzik Move Records",
+        "artistId": "575127907",
+        "artistUrl": "https://itunes.apple.com/th/artist/burin-boonvisut/575127907?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/f1/ff/62/f1ff62fd-e2d7-c080-8f8f-5e985b4f8f60/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9/1387453581?i=1387453582&app=music"
+      },
+      {
         "artistName": "EXO",
-        "id": "1440782412",
+        "id": "1440782423",
         "releaseDate": "2018-11-02",
-        "name": "Sign",
+        "name": "24/7",
         "collectionName": "DON’T MESS UP MY TEMPO – The 5th Album",
         "kind": "song",
         "copyright": "℗ 2018 SM Entertainment",
@@ -1205,74 +1355,19 @@
             "url": "https://itunes.apple.com/th/genre/id14"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/sign/1440782229?i=1440782412&app=music"
+        "url": "https://itunes.apple.com/th/album/24-7/1440782229?i=1440782423&app=music"
       },
       {
-        "artistName": "Lipta",
-        "id": "1403893899",
-        "releaseDate": "2018-07-06",
-        "name": "Good Luck (feat. Maiyarap)",
-        "collectionName": "Good Luck (feat. Maiyarap) - Single",
+        "artistName": "ฟักกลิ้ง ฮีโร่ & The TOYS",
+        "id": "1358585173",
+        "releaseDate": "2018-03-22",
+        "name": "Sleep Now",
+        "collectionName": "Sleep Now - Single",
         "kind": "song",
-        "copyright": "℗ 2018 Lipta",
-        "artistId": "307680660",
-        "artistUrl": "https://itunes.apple.com/th/artist/lipta/307680660?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/04/49/97/044997eb-48d0-b1c8-a3dd-a6cf84689186/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "1260",
-            "name": "Thai Pop",
-            "url": "https://itunes.apple.com/th/genre/id1260"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/good-luck-feat-maiyarap/1403893875?i=1403893899&app=music"
-      },
-      {
-        "artistName": "LANY",
-        "id": "1435482378",
-        "releaseDate": "2018-10-05",
-        "name": "Malibu Nights",
-        "collectionName": "Malibu Nights",
-        "kind": "song",
-        "copyright": "℗ 2018 Side Street Entertainment LLC, under exclusive licence to Polydor, a division of Universal Music Operations Limited",
-        "artistId": "867853783",
-        "artistUrl": "https://itunes.apple.com/th/artist/lany/867853783?app=music",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/d8/0a/ded80a8d-c37e-0a6c-9fe1-4848ed0662fa/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/th/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/malibu-nights/1435482172?i=1435482378&app=music"
-      },
-      {
-        "artistName": "The Parkinson",
-        "id": "1419990865",
-        "releaseDate": "2018-08-08",
-        "name": "คนชั่ว 2018",
-        "collectionName": "คนชั่ว 2018 - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 Spicy Disc Co.,Ltd. Manufactured and Distributed by Spicy Disc. All right reserved.",
-        "artistId": "931570340",
-        "artistUrl": "https://itunes.apple.com/th/artist/the-parkinson/931570340?app=music",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/13/64/5e/13645eeb-2de1-3411-ac5e-b0f51259950b/source/200x200bb.png",
+        "copyright": "℗ 2018 What The Duck",
+        "artistId": "705871915",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=705871915-1191438753&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1c/c6/92/1cc69260-2ed9-4d06-3a92-e1ce594face2/source/200x200bb.png",
         "genres": [
           {
             "genreId": "14",
@@ -1285,107 +1380,7 @@
             "url": "https://itunes.apple.com/th/genre/id34"
           }
         ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%84%E0%B8%99%E0%B8%8A-%E0%B8%A7-2018/1419990413?i=1419990865&app=music"
-      },
-      {
-        "artistName": "MEAN",
-        "id": "1248396242",
-        "releaseDate": "2017-06-23",
-        "name": "หมายความว่าอะไร",
-        "collectionName": "หมายความว่าอะไร - Single",
-        "kind": "song",
-        "copyright": "℗ 2017 LOVEiS Co.,Ltd.",
-        "artistId": "1226563279",
-        "artistUrl": "https://itunes.apple.com/th/artist/mean/1226563279?app=music",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music117/v4/2c/05/fe/2c05fe69-397b-8a72-36e5-9bd4cc673ed4/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7-%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/1248396240?i=1248396242&app=music"
-      },
-      {
-        "artistName": "Cyanide",
-        "id": "1436868629",
-        "releaseDate": "2018-09-19",
-        "name": "Let You Go (feat. Lazyloxy)",
-        "collectionName": "Let You Go (feat. Lazyloxy) - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 Cyanide",
-        "artistId": "151473205",
-        "artistUrl": "https://itunes.apple.com/th/artist/cyanide/151473205?app=music",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/68/21/f2/6821f2b4-bc86-41b8-3833-4da3582acd8b/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-Hop/Rap",
-            "url": "https://itunes.apple.com/th/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/let-you-go-feat-lazyloxy/1436867799?i=1436868629&app=music"
-      },
-      {
-        "artistName": "Atom Chanakan",
-        "id": "1318647464",
-        "releaseDate": "2017-12-07",
-        "name": "Good Morning Teacher",
-        "collectionName": "Cyantist",
-        "kind": "song",
-        "copyright": "℗ 2017 GMM Grammy PCL.",
-        "artistId": "958056826",
-        "artistUrl": "https://itunes.apple.com/th/artist/atom-chanakan/958056826?app=music",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b1/05/c3/b105c374-aef4-92e8-f5e2-99e4832cfbf7/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/good-morning-teacher/1318647271?i=1318647464&app=music"
-      },
-      {
-        "artistName": "Room39",
-        "id": "1415723628",
-        "releaseDate": "2018-07-27",
-        "name": "หากวันนั้น",
-        "collectionName": "หากวันนั้น - Single",
-        "kind": "song",
-        "copyright": "℗ 2018 LOVEiS Entertainment",
-        "artistId": "285747369",
-        "artistUrl": "https://itunes.apple.com/th/artist/room39/285747369?app=music",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a4/10/a2/a410a2a2-638b-0fb9-34eb-d3c2fae1bd5e/source/200x200bb.png",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/th/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/th/genre/id34"
-          }
-        ],
-        "url": "https://itunes.apple.com/th/album/%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A7-%E0%B8%99%E0%B8%99-%E0%B8%99/1415722889?i=1415723628&app=music"
+        "url": "https://itunes.apple.com/th/album/sleep-now/1358584549?i=1358585173&app=music"
       }
     ]
   }

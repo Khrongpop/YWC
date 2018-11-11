@@ -17,7 +17,7 @@
     "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
     "country": "th",
     "icon": "http://itunes.apple.com/favicon.ico",
-    "updated": "2018-11-09T01:59:29.000-08:00",
+    "updated": "2018-11-10T01:42:03.000-08:00",
     "results": [
       {
         "artistName": "ILLSLICK",
@@ -145,6 +145,31 @@
           }
         ],
         "url": "https://itunes.apple.com/th/album/love-made-me-do-it/1440737345?i=1440737561&app=music"
+      },
+      {
+        "artistName": "25Hours",
+        "id": "1440262546",
+        "releaseDate": "2018-11-10",
+        "name": "ลืมกันแล้วหรือยัง",
+        "collectionName": "ลืมกันแล้วหรือยัง - Single",
+        "kind": "song",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "1352925384",
+        "artistUrl": "https://itunes.apple.com/th/artist/25hours/1352925384?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/38/c5/76/38c576dd-ec71-5dd7-f8ff-1329281ca595/source/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B8%A5-%E0%B8%A1%E0%B8%81-%E0%B8%99%E0%B9%81%E0%B8%A5-%E0%B8%A7%E0%B8%AB%E0%B8%A3-%E0%B8%AD%E0%B8%A2-%E0%B8%87/1440262545?i=1440262546&app=music"
       },
       {
         "artistName": "Zeal",

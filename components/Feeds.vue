@@ -14,12 +14,12 @@
     <vs-row vs-justify="left">
       <vs-col
         v-for="(result,index) in feeds.feed.results"
-        v-if="index < limit"
+        v-if="windowWidth>900 ? index < limit : index < limit - 2"
         :key="index"
+        :vs-w=" windowWidth>900 ? 2.4 : 4"
         type="flex"
         vs-justify="center"
-        vs-align="center"
-        vs-w="2.4">
+        vs-align="center">
         <ArtistCard :result="result" />
         <div class="mb-4"/>
       </vs-col>
@@ -43,6 +43,22 @@ export default {
       required: true
     },
   },
+  data() {
+    return {
+      windowWidth: 0,
+      windowHeight: 0,
+    }
+  },
+  mounted() {
+    this.$nextTick(function () {
+      window.addEventListener("resize", this.getWindowWidth)
+      window.addEventListener("resize", this.getWindowHeight)
+
+      //Init
+      this.getWindowWidth()
+      this.getWindowHeight()
+    })
+  },
   methods: {
     getUrl(link) {
       let splits = link.split(' ')
@@ -52,6 +68,13 @@ export default {
         index != (splits.length - 1) ? url += '-' : url += ''
       });
       return url
+    },
+    getWindowWidth(event) {
+      this.windowWidth = document.documentElement.clientWidth
+    },
+
+    getWindowHeight(event) {
+      this.windowHeight = document.documentElement.clientHeight
     },
   }
 };

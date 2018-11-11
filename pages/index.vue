@@ -34,7 +34,7 @@ export default {
     ...mapGetters(['feeds'])
   },
   mounted() {
-    this.$store.dispatch("fetch_hottracks");
+    // this.$store.dispatch("fetch_hottracks");
   },
 }
 </script>
