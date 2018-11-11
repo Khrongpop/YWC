@@ -1,0 +1,1211 @@
+{
+  "feed": {
+    "title": "New Releases",
+    "id": "https://rss.itunes.apple.com/api/v1/th/apple-music/new-releases/all/50/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/th/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/th/apple-music/new-releases/all/50/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1165618795&app=music"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+    "country": "th",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2018-11-09T01:59:06.000-08:00",
+    "results": [
+      {
+        "artistName": "Prep",
+        "id": "1438402731",
+        "releaseDate": "2018-11-09",
+        "name": "Line by Line - EP",
+        "kind": "album",
+        "copyright": "℗ 2018 Jeffrey International",
+        "artistId": "344112604",
+        "artistUrl": "https://itunes.apple.com/th/artist/prep/344112604?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/77/7c/02/777c0263-9538-099a-055d-cd6e725b1573/5054526163041_1.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/line-by-line-ep/1438402731?app=music"
+      },
+      {
+        "artistName": "Various Artists",
+        "id": "1439284348",
+        "releaseDate": "2018-10-31",
+        "name": "Gmm New Release 2018, Vol. 9",
+        "kind": "album",
+        "copyright": "℗ 2018 GMM Grammy PCL.",
+        "artistId": "581578189",
+        "artistUrl": "https://itunes.apple.com/th/artist/various-artists/581578189?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/0e/b9/12/0eb9125c-3489-5498-5add-8dd74111037e/GMM-New-R18V9-3000.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/gmm-new-release-2018-vol-9/1439284348?app=music"
+      },
+      {
+        "artistName": "Jonas Blue",
+        "id": "1437811936",
+        "releaseDate": "2018-11-09",
+        "name": "Blue",
+        "kind": "album",
+        "copyright": "A Positiva / Virgin EMI Records release; ℗ 2018 Universal Music Operations Limited",
+        "artistId": "405728790",
+        "artistUrl": "https://itunes.apple.com/th/artist/jonas-blue/405728790?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/80/00/68/800068f4-9aa6-56fa-90a7-56695613fd1b/00602577051319.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/th/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/blue/1437811936?app=music"
+      },
+      {
+        "artistName": "TWICE",
+        "id": "1440972731",
+        "releaseDate": "2018-11-05",
+        "name": "YES or YES",
+        "kind": "album",
+        "copyright": "℗ 2018 JYP Entertainment",
+        "artistId": "1203816887",
+        "artistUrl": "https://itunes.apple.com/th/artist/twice/1203816887?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/24/d5/fb/24d5fb61-6d50-e6e8-331e-275be8e2bdad/20181105_6PM_TWICE_6_MAIN_COVER_IMAGE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/th/genre/id17"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/yes-or-yes/1440972731?app=music"
+      },
+      {
+        "artistName": "Olly Murs",
+        "id": "1437806868",
+        "releaseDate": "2018-11-09",
+        "name": "You Know I Know (Deluxe)",
+        "kind": "album",
+        "copyright": "℗ 2018 Sony Music Entertainment UK Limited",
+        "artistId": "382815022",
+        "artistUrl": "https://itunes.apple.com/th/artist/olly-murs/382815022?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/b4/f9/b5/b4f9b5f5-334a-276f-a179-f434432c89d1/886447325896.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/you-know-i-know-deluxe/1437806868?app=music"
+      },
+      {
+        "artistName": "Sabrina Carpenter",
+        "id": "1438671104",
+        "releaseDate": "2018-11-09",
+        "name": "Singular Act I",
+        "kind": "album",
+        "copyright": "℗ 2018 Hollywood Records, Inc.",
+        "artistId": "390647681",
+        "artistUrl": "https://itunes.apple.com/th/artist/sabrina-carpenter/390647681?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d7/27/73/d72773c0-049e-5015-7295-d9cf67f6cac1/00050087405274.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/singular-act-i/1438671104?app=music"
+      },
+      {
+        "artistName": "Imagine Dragons",
+        "id": "1437948883",
+        "releaseDate": "2018-11-09",
+        "name": "Origins (Deluxe)",
+        "kind": "album",
+        "copyright": "℗ 2018 KIDinaKORNER/Interscope Records",
+        "artistId": "358714030",
+        "artistUrl": "https://itunes.apple.com/th/artist/imagine-dragons/358714030?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/55/c4/7d/55c47dec-56b9-4f9b-fab4-0f7f394a10a8/00602577199219.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/origins-deluxe/1437948883?app=music"
+      },
+      {
+        "artistName": "Muse",
+        "id": "1434329335",
+        "releaseDate": "2018-11-09",
+        "name": "Simulation Theory (Deluxe)",
+        "kind": "album",
+        "copyright": "℗ 2018, Muse under exclusive licence to Warner Music UK Limited with the exception of  track 10 2017, Muse under exclusive licence to Warner Music UK",
+        "artistId": "1093360",
+        "artistUrl": "https://itunes.apple.com/th/artist/muse/1093360?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/09/5c/51/095c5105-2da6-3931-11a4-6f2bbe6501f6/190295559236.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/simulation-theory-deluxe/1434329335?app=music"
+      },
+      {
+        "artistName": "The Beatles",
+        "id": "1436905161",
+        "releaseDate": "1968-11-22",
+        "name": "The Beatles (White Album) [Super Deluxe]",
+        "kind": "album",
+        "copyright": "This Compilation ℗ 2018 Calderstone Productions Limited (a division of Universal Music Group)",
+        "artistId": "136975",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-beatles/136975?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/33/c8/68/33c8689c-f763-b9c5-5fe7-a012d457ea18/00602577087097.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/th/genre/id1133"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/th/genre/id1146"
+          },
+          {
+            "genreId": "1134",
+            "name": "Soft Rock",
+            "url": "https://itunes.apple.com/th/genre/id1134"
+          },
+          {
+            "genreId": "1157",
+            "name": "Rock & Roll",
+            "url": "https://itunes.apple.com/th/genre/id1157"
+          },
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/th/genre/id1152"
+          },
+          {
+            "genreId": "1156",
+            "name": "Psychedelic",
+            "url": "https://itunes.apple.com/th/genre/id1156"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/the-beatles-white-album-super-deluxe/1436905161?app=music"
+      },
+      {
+        "artistName": "Steve Aoki",
+        "id": "1439862278",
+        "releaseDate": "2018-11-09",
+        "name": "Neon Future III",
+        "kind": "album",
+        "copyright": "℗ 2018 Ultra Records, LLC",
+        "artistId": "271066694",
+        "artistUrl": "https://itunes.apple.com/th/artist/steve-aoki/271066694?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/40/be/24/40be246b-5975-7bc2-6859-27e41820113c/0617465993756.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/th/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/th/genre/id7"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/neon-future-iii/1439862278?app=music"
+      },
+      {
+        "artistName": "SG Lewis",
+        "id": "1440295390",
+        "releaseDate": "2018-11-09",
+        "name": "Dark - EP",
+        "kind": "album",
+        "copyright": "A PMR / Virgin EMI Records release; ℗ 2018 Jasmine Music Ltd t/a PMR Records, under exclusive license to Universal Music Operations Ltd",
+        "artistId": "966324292",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/sg-lewis/966324292?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/fb/a3/7f/fba37f8b-c1fe-0f96-2e81-c6030a592ece/00602577087844.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/th/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/dark-ep/1440295390?app=music"
+      },
+      {
+        "artistName": "Sarah Brightman",
+        "id": "1435615443",
+        "releaseDate": "2018-11-09",
+        "name": "Hymn",
+        "kind": "album",
+        "copyright": "A Decca Gold release; ℗ 2018 Nemo Studio and Sarah Brightman, under exclusive license to UMG Recordings, Inc.",
+        "artistId": "132517",
+        "artistUrl": "https://itunes.apple.com/th/artist/sarah-brightman/132517?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/fb/d5/bc/fbd5bc79-4d4d-b19a-e0c4-8eb86d63eef7/00028948175529.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1022",
+            "name": "Classical Crossover",
+            "url": "https://itunes.apple.com/th/genre/id1022"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/th/genre/id5"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/hymn/1435615443?app=music"
+      },
+      {
+        "artistName": "Mr Eazi",
+        "id": "1440102411",
+        "releaseDate": "2018-11-09",
+        "name": "Life Is Eazi, Vol. 2 - Lagos to London",
+        "kind": "album",
+        "copyright": "℗ 2018 Banku Music",
+        "artistId": "638430219",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/mr-eazi/638430219?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/f5/54/04/f554049f-bdf3-a8c2-c066-8502c5d0efd4/5060450067065.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "19",
+            "name": "World",
+            "url": "https://itunes.apple.com/th/genre/id19"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/life-is-eazi-vol-2-lagos-to-london/1440102411?app=music"
+      },
+      {
+        "artistName": "H.E.R.",
+        "id": "1440208201",
+        "releaseDate": "2018-11-06",
+        "name": "Up Next Session: H.E.R.",
+        "kind": "album",
+        "copyright": "℗ 2018 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "123049323",
+        "artistUrl": "https://itunes.apple.com/th/artist/h-e-r/123049323?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/3c/75/63/3c756346-655f-486a-494c-117bb99584d1/886447375297.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/th/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/up-next-session-h-e-r/1440208201?app=music"
+      },
+      {
+        "artistName": "Charlie Puth",
+        "id": "1293229669",
+        "releaseDate": "2018-05-11",
+        "name": "Voicenotes",
+        "kind": "album",
+        "copyright": "℗ 2018 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+        "artistId": "336249253",
+        "artistUrl": "https://itunes.apple.com/th/artist/charlie-puth/336249253?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/95/b3/0f/95b30fe8-aca6-552e-c113-ecac18b674bc/075679884336.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/th/genre/id1133"
+          },
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/th/genre/id17"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/voicenotes/1293229669?app=music"
+      },
+      {
+        "artistName": "Terdsak Janpan",
+        "id": "1440722089",
+        "releaseDate": "2018-11-02",
+        "name": "เลือดข้นคนจาง (Original Music Score)",
+        "kind": "album",
+        "copyright": "℗ 2018 NADAO BANGKOK ltd.",
+        "artistId": "367225669",
+        "artistUrl": "https://itunes.apple.com/th/artist/terdsak-janpan/367225669?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f3/f7/23/f3f723a7-401b-19f5-efdc-9eb4c17e9408/InFamilyWeTrust.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/th/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "53",
+            "name": "Instrumental",
+            "url": "https://itunes.apple.com/th/genre/id53"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/%E0%B9%80%E0%B8%A5-%E0%B8%AD%E0%B8%94%E0%B8%82-%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%87-original-music-score/1440722089?app=music"
+      },
+      {
+        "artistName": "EXO",
+        "id": "1440782229",
+        "releaseDate": "2018-11-02",
+        "name": "DON’T MESS UP MY TEMPO – The 5th Album",
+        "kind": "album",
+        "copyright": "℗ 2018 SM Entertainment",
+        "artistId": "657630070",
+        "artistUrl": "https://itunes.apple.com/th/artist/exo/657630070?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/97/f7/95/97f795bb-178f-53c6-8c4e-f1fa0f559846/EXO_DIGITAL_COVER.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/dont-mess-up-my-tempo-the-5th-album/1440782229?app=music"
+      },
+      {
+        "artistName": "The TOYS",
+        "id": "1439087464",
+        "releaseDate": "2018-10-25",
+        "name": "SUN",
+        "kind": "album",
+        "copyright": "℗ 2018 What The Duck",
+        "artistId": "1191438753",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-toys/1191438753?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/59/22/83/592283e9-5ec7-b92b-5b22-1f86adcad4e6/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/sun/1439087464?app=music"
+      },
+      {
+        "artistName": "Kris Wu",
+        "id": "1439168598",
+        "releaseDate": "2018-11-02",
+        "name": "Antares",
+        "kind": "album",
+        "copyright": "℗ 2018 Ace Unit Culture Media, under exclusive license to Interscope Records/Universal Music China/Go East Music Entertainment Consulting (Beijing)Ltd.",
+        "artistId": "947329205",
+        "artistUrl": "https://itunes.apple.com/th/artist/kris-wu/947329205?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/b6/d0/bc/b6d0bcdc-cfbc-45a8-6d77-bad8456f585f/00602577215506.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/th/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/antares/1439168598?app=music"
+      },
+      {
+        "artistName": "Queen",
+        "id": "1435374593",
+        "releaseDate": "2018-10-19",
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "kind": "album",
+        "copyright": "A Virgin Records Release; This Compilation ℗ 2018 Queen Productions Ltd, under exclusive licence to Universal International Music BV",
+        "artistId": "3296287",
+        "artistUrl": "https://itunes.apple.com/th/artist/queen/3296287?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/77/80/0e/77800ea9-c155-b084-5638-67df521e1772/00602577076183.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/th/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/bohemian-rhapsody-the-original-soundtrack/1435374593?app=music"
+      },
+      {
+        "artistName": "Barbra Streisand",
+        "id": "1436895674",
+        "releaseDate": "2018-11-02",
+        "name": "Walls",
+        "kind": "album",
+        "copyright": "℗ 2018 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "249646",
+        "artistUrl": "https://itunes.apple.com/th/artist/barbra-streisand/249646?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/9a/3c/af/9a3caf3e-8c2a-56d9-e13d-f7577d97a475/886447269398.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/walls/1436895674?app=music"
+      },
+      {
+        "artistName": "IZ*ONE",
+        "id": "1440449615",
+        "releaseDate": "2018-10-29",
+        "name": "COLOR*IZ",
+        "kind": "album",
+        "copyright": "℗ Stone Music Entertainment, OFF THE RECORD Entertainment",
+        "artistId": "1440449616",
+        "artistUrl": "https://itunes.apple.com/th/artist/iz-one/1440449616?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/02/8e/eb/028eeb6b-782e-b263-5332-6d57ad077c88/IZONE_Digital_Cover_COLOR_IZ.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/color-iz/1440449615?app=music"
+      },
+      {
+        "artistName": "The Prodigy",
+        "id": "1405858479",
+        "releaseDate": "2018-11-02",
+        "name": "No Tourists",
+        "kind": "album",
+        "copyright": "℗ 2018 Take Me To The Hospital Limited under exclusive licence to BMG Rights Management (UK) Limited",
+        "artistId": "1093102",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/the-prodigy/1093102?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ba/0b/0e/ba0b0e64-ad99-1444-5d22-cc0ef3250d32/4050538424171.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/th/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/no-tourists/1405858479?app=music"
+      },
+      {
+        "artistName": "DCNXTR & HMGNC",
+        "id": "1439177467",
+        "releaseDate": "2018-10-26",
+        "name": "TODAY SUMMER FOREVER RAIN - EP",
+        "kind": "album",
+        "copyright": "℗ 2018 DCNXTR / HMGNC",
+        "artistId": "916780752",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=916780752-982323175&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/1f/ec/0c/1fec0c58-3f1a-0057-bd64-02693163a491/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/th/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/today-summer-forever-rain-ep/1439177467?app=music"
+      },
+      {
+        "artistName": "Joji",
+        "id": "1437308307",
+        "releaseDate": "2018-10-26",
+        "name": "BALLADS 1",
+        "kind": "album",
+        "copyright": "℗ 2018 88rising Records / 12Tone Music LLC",
+        "artistId": "1258279972",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/joji/1258279972?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/73/be/51/73be5115-b424-3075-8591-f0e5be0e3561/190296940323.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/th/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/ballads-1/1437308307?app=music"
+      },
+      {
+        "artistName": "Robyn",
+        "id": "1436857058",
+        "releaseDate": "2018-10-26",
+        "name": "Honey",
+        "kind": "album",
+        "copyright": "An Island Records Release; ℗ 2018 Konichiwa Records, under exclusive licence to Universal Music Operations Limited",
+        "artistId": "535211",
+        "artistUrl": "https://itunes.apple.com/th/artist/robyn/535211?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/8d/95/5c8d95ef-d014-41d8-bc75-98e8a57575ac/00602577131158.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/honey/1436857058?app=music"
+      },
+      {
+        "artistName": "RM",
+        "id": "1439732979",
+        "releaseDate": "2018-10-23",
+        "name": "mono.",
+        "kind": "album",
+        "copyright": "℗ 2018 Bighit Entertainment",
+        "artistId": "1439549457",
+        "artistUrl": "https://itunes.apple.com/th/artist/rm/1439549457?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/48/c3/19/48c31915-36ed-aedc-00c3-d59a0c1f9848/193483116426.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/mono/1439732979?app=music"
+      },
+      {
+        "artistName": "Lukas Graham",
+        "id": "1435336323",
+        "releaseDate": "2018-10-26",
+        "name": "3 (The Purple Album)",
+        "kind": "album",
+        "copyright": "℗ 2018 Warner Bros. Records Inc. for the U.S. and WMI for the world outside the U.S. excluding Germany, Austria, Switzerland, Finland, Sweden, Norway, Denmark, and France.",
+        "artistId": "473219952",
+        "artistUrl": "https://itunes.apple.com/th/artist/lukas-graham/473219952?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/06/bb/15/06bb15fc-09e1-64ab-0b49-d1d42438c8c7/093624903284.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/3-the-purple-album/1435336323?app=music"
+      },
+      {
+        "artistName": "Stray Kids",
+        "id": "1439566881",
+        "releaseDate": "2018-10-22",
+        "name": "I am YOU",
+        "kind": "album",
+        "copyright": "℗ 2018 JYP Entertainment",
+        "artistId": "1304823362",
+        "artistUrl": "https://itunes.apple.com/th/artist/stray-kids/1304823362?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/e3/75/11/e37511af-3154-d327-d4be-6cf13cea5767/738676857108.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/th/genre/id18"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/i-am-you/1439566881?app=music"
+      },
+      {
+        "artistName": "Boy Sompob",
+        "id": "1437633614",
+        "releaseDate": "2018-10-01",
+        "name": "Why I Love You",
+        "kind": "album",
+        "copyright": "℗ 2018 Boy Sompob",
+        "artistId": "966549460",
+        "artistUrl": "https://itunes.apple.com/th/artist/boy-sompob/966549460?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c5/43/6a/c5436aca-3c18-7754-2384-21c0e2bfc4b8/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1260",
+            "name": "Thai Pop",
+            "url": "https://itunes.apple.com/th/genre/id1260"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/th/genre/id16"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/why-i-love-you/1437633614?app=music"
+      },
+      {
+        "artistName": "Khalid",
+        "id": "1438912699",
+        "releaseDate": "2018-10-19",
+        "name": "Suncity",
+        "kind": "album",
+        "copyright": "℗ 2018 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "82842423",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/khalid/82842423?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/19/e1/2a/19e12a66-bbd7-bd72-e752-c53c39e2b444/886447357385.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/th/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/suncity/1438912699?app=music"
+      },
+      {
+        "artistName": "Polyphia",
+        "id": "1416234351",
+        "releaseDate": "2018-10-12",
+        "name": "New Levels New Devils",
+        "kind": "album",
+        "copyright": "℗ 2018 Equal Vision Records, Inc.",
+        "artistId": "640294344",
+        "artistUrl": "https://itunes.apple.com/th/artist/polyphia/640294344?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/01/cf/37/01cf37f5-553e-7ca3-cb7b-c917bf86ef73/794558040969.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1155",
+            "name": "Prog-Rock/Art Rock",
+            "url": "https://itunes.apple.com/th/genre/id1155"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/new-levels-new-devils/1416234351?app=music"
+      },
+      {
+        "artistName": "Greta Van Fleet",
+        "id": "1435351050",
+        "releaseDate": "2018-10-19",
+        "name": "Anthem of the Peaceful Army",
+        "kind": "album",
+        "copyright": "℗ 2018 Republic Records a division of UMG Recordings Inc & Lava Music LLC",
+        "artistId": "646178956",
+        "artistUrl": "https://itunes.apple.com/th/artist/greta-van-fleet/646178956?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/be/97/03/be970386-b928-1dfc-e779-12c0b8f44bcb/00602577023286.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/anthem-of-the-peaceful-army/1435351050?app=music"
+      },
+      {
+        "artistName": "Disturbed",
+        "id": "1425820707",
+        "releaseDate": "2018-10-19",
+        "name": "Evolution (Deluxe)",
+        "kind": "album",
+        "copyright": "℗ 2018 Reprise Records",
+        "artistId": "156807",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/disturbed/156807?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/56/7a/69/567a6986-5481-adf0-f318-73ac0a93de58/093624904809.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/evolution-deluxe/1425820707?app=music"
+      },
+      {
+        "artistName": "Parcels",
+        "id": "1420157166",
+        "releaseDate": "2018-10-12",
+        "name": "Parcels",
+        "kind": "album",
+        "copyright": "℗ 2018 Kitsuné Musique, under exclusive license to Because Music",
+        "artistId": "1148094312",
+        "artistUrl": "https://itunes.apple.com/th/artist/parcels/1148094312?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/af/fc/5c/affc5c0d-71c8-8f6f-21da-ec5a07a153ad/5060525437427_cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/parcels/1420157166?app=music"
+      },
+      {
+        "artistName": "BRADYSTREET & TrashBeats1",
+        "id": "1438370604",
+        "releaseDate": "2018-10-08",
+        "name": "kawaiitrap! - EP",
+        "kind": "album",
+        "copyright": "℗ HEART TEARS",
+        "artistId": "1435556697",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=1435556697-1438370605&app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/88/9a/62/889a62e4-2e2e-5333-d34a-2d704e656359/dsf54dsaf.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/th/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/kawaiitrap-ep/1438370604?app=music"
+      },
+      {
+        "artistName": "Tahiti 80",
+        "id": "1382931418",
+        "releaseDate": "2018-10-12",
+        "name": "The Sunshine Beat, Vol. 1",
+        "kind": "album",
+        "copyright": "℗ 2018 Human Sounds",
+        "artistId": "17242236",
+        "artistUrl": "https://itunes.apple.com/th/artist/tahiti-80/17242236?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7e/e0/c4/7ee0c42b-9681-30f9-b4e7-32c1bcb204cb/3663729058218_cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/the-sunshine-beat-vol-1/1382931418?app=music"
+      },
+      {
+        "artistName": "Ella Mai",
+        "id": "1436555269",
+        "releaseDate": "2018-10-12",
+        "name": "Ella Mai",
+        "kind": "album",
+        "copyright": "A 10 Summers/Interscope Records Release; ℗ 2018 10 Summers Records, LLC",
+        "artistId": "1160482144",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/ella-mai/1160482144?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d5/74/93/d57493d9-68e3-a71f-718a-820b31a8ef4a/00602577107870.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/th/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/ella-mai/1436555269?app=music"
+      },
+      {
+        "artistName": "Jess Glynne",
+        "id": "1402596432",
+        "releaseDate": "2018-10-12",
+        "name": "Always In Between (Deluxe)",
+        "kind": "album",
+        "copyright": "℗ 2018 Atlantic Records UK, a division of Warner Music UK Limited except for Track 13 (P) 2017 Asylum Records UK, a division of Warner Music UK Limited and Track 14 (P) 2018 Ministry of Sound Recordings Limited under licence to Warner Music UK Limited",
+        "artistId": "704309129",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/jess-glynne/704309129?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/8f/fc/87/8ffc8797-cc27-187e-ccb4-0a9af6ca4153/190295595883.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/th/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/always-in-between-deluxe/1402596432?app=music"
+      },
+      {
+        "artistName": "LANY",
+        "id": "1435482172",
+        "releaseDate": "2018-10-05",
+        "name": "Malibu Nights",
+        "kind": "album",
+        "copyright": "℗ 2018 Side Street Entertainment LLC, under exclusive licence to Polydor, a division of Universal Music Operations Limited",
+        "artistId": "867853783",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/th/artist/lany/867853783?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/9c/c8/7c/9cc87c2d-390c-9423-1c69-131d38de8c54/00602577021664.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/th/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/malibu-nights/1435482172?app=music"
+      },
+      {
+        "artistName": "YURI",
+        "id": "1437890095",
+        "releaseDate": "2018-10-04",
+        "name": "The First Scene - The 1st Mini Album - EP",
+        "kind": "album",
+        "copyright": "℗ 2018 SM Entertainment",
+        "artistId": "823992463",
+        "artistUrl": "https://itunes.apple.com/th/artist/yuri/823992463?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/a2/30/21/a2302182-a542-5675-fe33-7774d0f76962/YURI-Digital_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/the-first-scene-the-1st-mini-album-ep/1437890095?app=music"
+      },
+      {
+        "artistName": "Lady Gaga & Bradley Cooper",
+        "id": "1434371867",
+        "releaseDate": "2018-10-05",
+        "name": "A Star Is Born Soundtrack",
+        "kind": "album",
+        "copyright": "This Compilation ℗ 2018 Interscope Records",
+        "artistId": "277293880",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=th&ids=277293880-300300595&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/14/52/12/145212ba-1fa2-5924-2268-8652cc693c22/00602577014284.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/th/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/a-star-is-born-soundtrack/1434371867?app=music"
+      },
+      {
+        "artistName": "NCT 127",
+        "id": "1438380104",
+        "releaseDate": "2018-10-12",
+        "name": "NCT #127 Regular-Irregular - The 1st Album",
+        "kind": "album",
+        "copyright": "℗ 2018 SM Entertainment",
+        "artistId": "1101892886",
+        "artistUrl": "https://itunes.apple.com/th/artist/nct-127/1101892886?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/24/c8/a1/24c8a1f4-7d60-6c32-8f0d-44dddf50df4b/NCT_127_coverart.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/th/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/th/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/th/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/th/album/nct-127-regular-irregular-the-1st-album/1438380104?app=music"
+      }
+    ]
+  }
+}
