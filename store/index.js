@@ -84,18 +84,20 @@ const createStore = () => {
       fetch_search({ commit }, key) {
         key == undefined ? (key = "") : key
         try {
-          return new Promise((resolve, reject) => {
-            axios
-              .get(`https://itunes.apple.com/search?term=${key}&country=th`)
-              .then(response => {
-                commit("FETCH_SEARCH", response.data)
-                commit("FETCH_KEY", key)
-                resolve(response.data)
-              })
-              .catch(err => {
-                reject(err)
-              })
-          })
+          // return new Promise((resolve, reject) => {
+          return axios
+            .get(`https://itunes.apple.com/search?term=${key}&country=th`)
+            .then(response => {
+              commit("FETCH_SEARCH", response.data)
+              commit("FETCH_KEY", key)
+              // resolve(response.data)
+              return response.data
+            })
+            .catch(err => {
+              // reject(err)
+              return err
+            })
+          // })
         } catch (e) {
           console.log("error :", e)
         }
