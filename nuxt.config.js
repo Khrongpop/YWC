@@ -29,6 +29,8 @@ module.exports = {
    */
   css: [],
 
+  // Khrongpop Phonngam 13580186
+  // plugins/vuesax.js
   /*
    ** Plugins to load before mounting the App
    */
